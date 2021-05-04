@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/municipalidad_de_malargue/BuildConfig.java
+ com.example.municipalidad_de_malargue.BuildConfig

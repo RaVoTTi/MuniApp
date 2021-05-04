@@ -1,0 +1,122 @@
+final List<Map<String, String>> products = [
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/04/malargue-municipalidad-1.jpg',
+      'title': 'Municipalidad de Malargüe',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604471060'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/11/6ccf4dc0-d57c-4e45-90c0-f6b579773729.jpg',
+      'title': 'Desarrollo Social',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604412246'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/12/119906822_3292286270824368_1875384053163340481_n.jpg',
+      'title': 'Turismo',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604471659'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/09/c813a911-5bd7-46b8-8942-15056d6b61a1.jpg',
+      'title': 'Terminal de Omnibus Malargüe',
+      'description': '08:00hs a 20:00hs',
+      'number': '+54902604629233'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2021/03/planetariointro.jpg',
+      'title': 'Planetario',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-18-at-22.44.01-768x576.jpeg',
+      'title': 'Servicios Públicos',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2018/02/DSC_8624-Small.jpg',
+      'title': 'Agencia de Desarrollo Educativo',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2016/03/plaza.jpg',
+      'title': 'Espacios Verdes',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.mendoza.travel/wp-content/mendoza_uploads/museo3.jpg',
+      'title': 'Cultura',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2021/01/2bcd7b39-11e0-44ca-b0d2-71fdac280577-1.jpg',
+      'title': 'Defensa Civil',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2021/03/DSC_2756-1-700x467-1.jpg',
+      'title': 'Vivienda',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2021/04/WhatsApp-Image-2021-04-21-at-10.26.39-768x432.jpeg',
+      'title': 'Deportes',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/09/WhatsApp-Image-2020-09-17-at-13.46.07-1.jpeg',
+      'title': 'Centro de Convenciones',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2021/02/turacc.jpeg',
+      'title': 'Discapacidad',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/12/carnet-de-conducir-850x500-1.jpg',
+      'title': 'Licencias de Conducir',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+
+    {
+      'url':
+          'https://www.malargue.gov.ar/wp-content/uploads/2020/08/formacion_1_0.jpg',
+      'title': 'Oficina de Empleo',
+      'description': '08:00hs a 13:00hs',
+      'number': '+54902604629233'
+    },
+  ];
